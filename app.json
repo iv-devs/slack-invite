@@ -6,11 +6,11 @@
   "env": {
     "COMMUNITY_NAME": {
       "description": "Your team name",
-      "value": "YOUR TEAM NAME"
+      "value": "IV Devs"
     },
     "SLACK_URL": {
-      "description": "Your slack url(ex: socketio.slack.com)",
-      "value": "YOUR-TEAM.slack.com"
+      "description": "Your slack url(ex: ivdevs.slack.com)",
+      "value": "ivdevs.slack.com"
     },
     "SLACK_TOKEN": {
       "description": "access token of slack, You can generate it in https://api.slack.com/web#auth",
